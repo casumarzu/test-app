@@ -1,5 +1,14 @@
 ## Getting Started
 
+Deployment
+
+```bash
+$ bundle install
+$ cap deploy:check
+$ cap deploy:setup
+$ cap production deploy
+```
+
 Install npm dependencies.
 
 ```bash
